@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 import Wheather from "./components/wheather";
 
 function App() {
+  console.log("kabaki");
   return <Wheather />;
 }
 
